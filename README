@@ -1,0 +1,11 @@
+# dojotext
+
+Clojure Dojo May 2012 - EventSource/Syslog, Team 3
+
+Processing a stream of  tweets from someone tweeting the Eurovision scores, and look for reciprocal voting. 
+
+## License
+
+Copyright (C) 2012 CljDojoLdn
+
+Distributed under the Eclipse Public License, the same as Clojure.
